@@ -3,9 +3,11 @@ body {
     font-weight: 300;
 }
 .title {
-
     color:lightgrey;
 }
-.holder {
-    width: 50%;
+.break {
+    border-top: 1px solid lightgrey;
+}
+.movieList {
+    color:lightgrey;
 }
